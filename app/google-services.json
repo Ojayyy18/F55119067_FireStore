@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "636779137940",
+    "project_id": "fauzirifaldi-firestore",
+    "storage_bucket": "fauzirifaldi-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636779137940:android:51773a945cb85638399d81",
+        "android_client_info": {
+          "package_name": "com.f55119067.fauzirifaldi_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636779137940-4tf91beor5je5solpk5q2e7oi5rp0cpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC37uUbnTu-CElMefVdXAcH6dEIUa92SVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636779137940-4tf91beor5je5solpk5q2e7oi5rp0cpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
